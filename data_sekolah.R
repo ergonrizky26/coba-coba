@@ -7,3 +7,5 @@ data_sekolah <- ['SMP N1','SMP N2','SMP N3']
 data_sekolah <- {'SMP N1';'SMP N2';'SMP N3'}
 
 data_baru juga
+
+tambah_data_baru
