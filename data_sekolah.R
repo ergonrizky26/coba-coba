@@ -6,4 +6,4 @@ data_sekolah <- ['SMP N1','SMP N2','SMP N3']
 # Yang Benar
 data_sekolah <- {'SMP N1';'SMP N2';'SMP N3'}
 
-data_baru
+data_baru juga
